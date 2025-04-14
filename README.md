@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## **Sobre mi:** :wave:
 
-Profesional con más de 15 años de experiencia en gestión comercial, respaldado por un MBA en Negocios de Mercadotecnia. Me gusta la actualización constante :computer:, recientemente concluí un bootcamp de tecnología 🎓 :mortar_board: para profundizar mis conocimientos cono Analista de datos, Python, SQL y análisis estadistico de negocios :chart_with_upwards_trend:. 
+Profesional con más de 15 años de experiencia en gestión comercial, respaldado por un MBA en Negocios de Mercadotecnia. Me gusta la actualización constante :computer:, recientemente concluí un bootcamp de tecnología :mortar_board: para profundizar mis conocimientos cono Analista de datos, Python, SQL y análisis estadistico de negocios :chart_with_upwards_trend:. 
 
 # **Caja de herramientas:** :tools:
 
