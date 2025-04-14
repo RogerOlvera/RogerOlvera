@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./your-header-image-name.png)
+![Header](./profile_header_file.png)
