@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Header](Images/github-header-image.png)
 
 <p align="center">
-<a href="www.linkedin.com/in/rogelioolveram" target="_blank">
+<a href="https://www.linkedin.com/in/rogelioolveram" target="_blank">
 <img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn Badge">
 </a>
 </p>
