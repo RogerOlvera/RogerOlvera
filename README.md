@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Header](./profile_header_file.png)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
